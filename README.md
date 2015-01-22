@@ -15,6 +15,7 @@
   * &lt;script>
 <br>
 <br>
+
 2. A webpage is often broken up into multiple sections. Which block of html below best matches the output given here? (A.HP.2.1 Student can create sections and groups in HTML (divs/spans))
 <br><div><span>I'm section 1!</span></div><div><span>I'm section 2!</span></div>
 
@@ -71,6 +72,7 @@
     * The fact that the books are on separate lines
 <br>
 <br>
+
 6. What is the correct CSS rule that will change the text in the ```<span>``` below to blue? ( A.S.1.1 Student can use CSS selectors to style elements by ID.)
   ```html
   <span id="sentence">The quick brown fox...</span>
@@ -80,22 +82,24 @@
   * ```#sentence {color:blue;}```
 <br>
 <br>
+
 7. Given the HTML below, what will the final output look like in a web browser? (A.S.1.2 Student can use CSS selectors to style elements by class.)
-```html
-<div>
-  <p class="paragraph">Coca Cola</p>
-  <p id="paragraph">Pepsi</p>
-</div>
-<style>
-    .paragraph {color: yellow;}
-</style
-```
+  ```html
+  <div>
+    <p class="paragraph">Coca Cola</p>
+    <p id="paragraph">Pepsi</p>
+  </div>
+  <style>
+      .paragraph {color: yellow;}
+  </style
+  ```
   * "Coca-cola" will show up as yellow, and "Pepsi" will be black.
   * "Pepsi" will be yellow, and "Coca-cola" will be black.
   * Both "Coca-cola" and "Pepsi" will be black.
 <br>
 <br>
-8. Fill in the blank in the following sentence with the correct term: "An element with a CSS rule of position:_______ will stay right where it is as the page is scrolled." (A.S.2.1 Student can explain the difference between static, absolute, and fixed positioning in web pages.)
+
+8. Fill in the blank in the following sentence with the correct term: "An element with a CSS rule of position:_______ will stay right where it is as the page is scrolled." A.S.2.1 Student can explain the difference between static, absolute, and fixed positioning in web pages.)
   * Static
   * Fixed
   * Absolute
