@@ -15,7 +15,7 @@
   * &lt;script>
 
 2. A webpage is often broken up into multiple sections. Which block of html below best matches the output given here? (A.HP.2.1 Student can create sections and groups in HTML (divs/spans))
-<br><div><span>I'm section 1!</span></div><br><div><span>I'm section 2!</span></div>
+<br><div><span>I'm section 1!</span></div><div><span>I'm section 2!</span></div>
 
   * ```<p>I'm section 1! I'm section 2!</p>```
   * ```<title>I'm section 1!</title><span>I'm section 2!</span>```
