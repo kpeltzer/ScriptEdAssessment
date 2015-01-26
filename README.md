@@ -73,7 +73,7 @@
   ```
   * ```text {color:blue;}```
   * ```.sentence {color: blue;}```
-  * ```#sentence {color:blue;}```
+  * ```#sentence {color:blue;}``` <- correct
 
 7. Given the HTML below, what will the final output look like in a web browser? (A.S.1.2 Student can use CSS selectors to style elements by class.)
   ```html
@@ -85,7 +85,7 @@
       .paragraph {color: yellow;}
   </style
   ```
-  * "Coca-cola" will show up as yellow, and "Pepsi" will be black.
+  * **"Coca-cola" will show up as yellow, and "Pepsi" will be black.**
   * "Pepsi" will be yellow, and "Coca-cola" will be black.
   * Both "Coca-cola" and "Pepsi" will be black.
 <br>
@@ -93,5 +93,5 @@
 
 8. Fill in the blank in the following sentence with the correct term: "An element with a CSS rule of position:_______ will stay right where it is as the page is scrolled." A.S.2.1 Student can explain the difference between static, absolute, and fixed positioning in web pages.)
   * Static
-  * Fixed
+  * **Fixed**
   * Absolute
